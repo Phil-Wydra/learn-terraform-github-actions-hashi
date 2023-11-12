@@ -1,7 +1,7 @@
 # Copyright (c) HashiCorp, Inc.
 # SPDX-License-Identifier: MPL-2.0
 # re-testing second time after changing AWS region to us-east-1 where my ACG default vpc and subnets reside
-# also updated required version to 1.1.1
+# 
 
 terraform {
   required_providers {
